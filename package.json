@@ -1,0 +1,16 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "API 1.0 JS for learn",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "i6nake9",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
